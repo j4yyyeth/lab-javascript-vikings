@@ -54,15 +54,6 @@ class Viking extends Soldier {
         }
         
       }
-  
-
-
-
-
-
-
-
-
 
 
 // War
